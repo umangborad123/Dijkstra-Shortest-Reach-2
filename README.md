@@ -21,7 +21,7 @@ The last line has an integer S, denoting the starting position.
 - 2 <= N <= 3000
 - 1 <= M <= N*(N-1)/2
 - 1 <= x,y,S <= N
-- 1 <= r <= 10^5
+- 1 <= r <= 10<sup>5</sup>
 
 **If there are edges between the same pair of nodes with different weights, they are to be considered as is, like multiple edges.**
 
